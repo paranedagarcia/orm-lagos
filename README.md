@@ -2,6 +2,6 @@
 Open Medical Research versión Academica 
 
 <center>
-![](img/ulagos.png)
+<img src="img/ulagos.png">
 </center>
 
